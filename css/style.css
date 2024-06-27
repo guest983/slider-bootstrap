@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+nav.navbar.navbar-expand-lg {
+    padding: 12px 0px;
+    font-size: 15px;
+    font-family: lobster;
+    letter-spacing: 2px;
+}
+
+#navigation {}
+
+a.navbar-brand {
+    font-size: 30px;
+    color: blue;
+    letter-spacing: 5px;
+}
+div#\#navigation {
+}
+
+nav.navbar.navbar-expand-lg {
+    padding: 12px 0px;
+    font-size: 15px;
+    font-family: lobster;
+    letter-spacing: 2px;
+}
+
+#navigation {}
+
+a.navbar-brand {
+    font-size: 30px;
+    color: blue;
+    letter-spacing: 5px;
+}
